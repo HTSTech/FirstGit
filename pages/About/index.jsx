@@ -35,7 +35,7 @@
   
     return (
       <div id='AboutID'>
-        <body id="igsx"><div id="irr8">About</div></body>
+        <body id="igsx"><div id="irr8">About Page</div></body>
         <style>
           [object Text]
         </style>
