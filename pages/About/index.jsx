@@ -35,9 +35,9 @@
   
     return (
       <div id='AboutID'>
-        <body id="igsx"><div id="irr8">About Page updated</div></body>
+        <body id="igsx"><div id="irr8">About Page updated </div></body>
         <style>
-          [object Text]
+          [object HTMLStyleElement]
         </style>
       </div>
     )
